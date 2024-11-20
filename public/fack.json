@@ -1,0 +1,19 @@
+{
+    "tuition":[
+    {
+        "title":"Math and English Tuition",
+        "description":"Key Stage 1, 2, & 3",
+        "image":"/tuition.png"
+    },
+    {
+        "title":"11 Plus and Entrance Exams",
+        "description":"Key Stage 2",
+        "image":"/11plus.png"
+    },
+    {
+        "title":"GCSE preparation and tutoring",
+        "description":"Key Stage 3",
+        "image":"/gcse.png"
+    }
+]
+}
